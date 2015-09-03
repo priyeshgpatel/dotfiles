@@ -1,13 +1,13 @@
-# Andre's dotfiles
+# Priyesh's dotfiles
 
-Initially copied from [Zach Holman](http://github.com/holman/dotfiles), but 
+Initially copied from [Zach Holman](http://github.com/holman/dotfiles) and [Andre Azzolini](http://github.com/apazzolini/dotfiles) , but 
 substantially stripped down for my particular tastes. This used to also 
 utilize oh-my-zsh, but I've found that I'd rather manage my entire 
 configuration by myself, so this no longer requires that.
 
 ## Usage
 
-Same steps as Holman's:
+Same steps as Andre's:
 
 - `git clone git://github.com/apazzolini/dotfiles ~/.dotfiles`
 - `cd ~/.dotfiles`
